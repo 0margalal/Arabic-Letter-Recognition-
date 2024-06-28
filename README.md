@@ -28,6 +28,5 @@ Model Comparison: Results of the models compared to suggest the best-performing 
 Deliverables
 Code: Python files (.py).
 Report: PDF containing team members' names, IDs, code, and screenshots of outputs.
-The dataset can be downloaded from [this link](https://drive.google.com/file/d/1u3tnEY-
-eMmeUNaKP31YBCVoty9s5VCsz/view?usp=sharing).
+The dataset can be downloaded from [this link](https://drive.google.com/file/d/1u3tnEY-eMmeUNaKP31YBCVoty9s5VCsz/view?usp=sharing).
 
